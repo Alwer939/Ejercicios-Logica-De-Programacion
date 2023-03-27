@@ -7,7 +7,7 @@
 - Crear un diccionario Español-Inglés, que contenga al menos *20* palabras con su respectiva traducción
 - Utiliza un *objeto* `HashMap` para almacenar pares de palabras
 - Input 
-  - Solicitar a usuario una palbra en español
+  - Solicitar a usuario una palabra en español
 - Output
   - Mostrar por consola la palabra en inglés
   - En caso de no encontrar su traducción en el diccionario, debe imprimir un mensaje indicándolo
